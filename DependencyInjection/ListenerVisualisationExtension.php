@@ -17,6 +17,6 @@ class ListenerVisualisationExtension extends Extension
 
     public function getAlias()
     {
-        return 'acme_demo';
+        return 'listener_visualisation';
     }
 }
