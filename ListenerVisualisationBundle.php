@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenMe\ListenerVisualisationBundle;
+namespace JeroenMe\Bundle\ListenerVisualisationBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

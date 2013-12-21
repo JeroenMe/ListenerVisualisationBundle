@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenMe\ListenerVisualisationBundle\Command;
+namespace JeroenMe\Bundle\ListenerVisualisationBundle\Command;
 
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;
 use Symfony\Component\Console\Input\InputArgument;
