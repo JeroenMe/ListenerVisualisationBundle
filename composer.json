@@ -1,0 +1,19 @@
+{
+    "name": "jeroenme/listenervisualisation-bundle",
+    "description": "ListenerVisualisationBundle",
+    "keywords": ["listeners", "visualisation", "bundle"],
+    "type": "symfony-bundle",
+    "license": "",
+    "authors": [{
+        "name": "Jeroen Meert",
+        "email": "jeroen@tactics.be"
+    }],
+    "require": {
+        "symfony/symfony": ">2.1.*"
+    },
+    "autoload": {
+        "psr-0": { "JeroenMe\\Bundle\\ListenerVisualisationBundle": "" }
+    },
+    "target-dir": "JeroenMe/Bundle/ListenerVisualisationBundle",
+    "minimum-stability": "dev"
+}
